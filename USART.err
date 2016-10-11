@@ -1,0 +1,26 @@
+Error[1105] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 14 : symbol 'receivePos' has not been defined
+Error[1101] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 14 : lvalue required
+Error[1105] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 15 : symbol 'RxBuffer' has not been defined
+Error[1105] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 15 : symbol 'receivePos' has not been defined
+Error[1129] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 15 : [] operator requires a pointer and an integer as operands
+Error[1101] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 15 : lvalue required
+Error[1105] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 17 : symbol 'receivePos' has not been defined
+Error[1105] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 18 : symbol 'receivePos' has not been defined
+Error[1105] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 18 : symbol 'RxBuffer' has not been defined
+Error[1129] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 18 : [] operator requires a pointer and an integer as operands
+Error[1105] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 18 : symbol 'RxBuffer' has not been defined
+Error[1129] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 18 : [] operator requires a pointer and an integer as operands
+Warning[2058] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 19 : call of function without prototype
+Error[1105] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 21 : symbol 'receivePos' has not been defined
+Error[1101] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 21 : lvalue required
+Error[1105] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 28 : symbol 'TxBuffer' has not been defined
+Error[1129] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 28 : [] operator requires a pointer and an integer as operands
+Error[1101] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 28 : lvalue required
+Error[1105] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 29 : symbol 'TxBuffer' has not been defined
+Error[1129] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 29 : [] operator requires a pointer and an integer as operands
+Error[1101] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 29 : lvalue required
+Error[1105] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 30 : symbol 'TxBuffer' has not been defined
+Error[1129] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 30 : [] operator requires a pointer and an integer as operands
+Error[1101] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 30 : lvalue required
+Error[1105] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 31 : symbol 'TxBuffer' has not been defined
+Error[1129] C:\Users\otagar119780\Dropbox\Oded\Smart Home\SmartHome-18f2455 Shutters\USART.c 31 : [] operator requires a pointer and an integer as operands
