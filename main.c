@@ -1,5 +1,6 @@
 //Oded Tagar
 //Xbee controller for shutters + DHT22 sensor
+
 #ifndef MAIN_C
 #define MAIN_C
 
@@ -35,7 +36,7 @@
 #define DHT22in     PORTBbits.RB5 //DHT22  input
 #define DHT22out    LATBbits.LATB5 //DHT22  output
 
-#define ADDRESS 2//XBee address.
+#define ADDRESS 4//XBee address.
 
 // Define the globals 
 #pragma udata
@@ -203,10 +204,13 @@ void main(void) {
     LATAbits.LATA1 = 1; //power DHT22
 
     //init EEPROM with default values
+    //shutter up time
     if (Read_b_eep(0x01) == 0xff)
         Write_b_eep(0x01, (char) 14);
+    //shutter down time
     if (Read_b_eep(0x02) == 0xff)
         Write_b_eep(0x02, (char) 14);
+    //shutter extra time for end of motion
     if (Read_b_eep(0x03) == 0xff)
         Write_b_eep(0x03, (char) 2);
 
