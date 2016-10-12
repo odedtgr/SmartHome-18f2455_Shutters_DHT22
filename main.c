@@ -1,3 +1,5 @@
+//Oded Tagar
+//Xbee controller for shutters + DHT22 sensor
 #ifndef MAIN_C
 #define MAIN_C
 
