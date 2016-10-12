@@ -26,7 +26,7 @@
 
 //Use LATA to write, PORTA to read.
 //Remember to configure input/output
-#define LED1        LATAbits.LATA3 //Status led
+//#define LED1        LATAbits.LATA3 //Status led
 //shutter pins
 #define upRelay     LATAbits.LATA4
 #define downRelay	LATAbits.LATA5 
