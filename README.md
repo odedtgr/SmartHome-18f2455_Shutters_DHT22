@@ -1,3 +1,5 @@
 # SmartHome-18f2455_Shutters_DHT22
 Smart home controller for shutters and DHT22
-![My image](SmartHome-18f2455_Shutters_DHT22/extras/wiring diagram.png)
+
+Wiring diagram:
+![My image](extras/wiring%20diagram.png)
